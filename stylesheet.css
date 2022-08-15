@@ -32,7 +32,7 @@ html {
   /* outline: solid 1px red; */
   text-align: center;
   position: absolute;
-  top: 60px;
+  top: 40px;
   right: 0;
   bottom: 0;
   left: 0;
@@ -81,10 +81,11 @@ html {
   }
 
   .btnwrapper {
+    outline: 1px solid red;
     position: absolute;
-  top: 120px;
+  top: 100px;
   right: 0;
-  bottom: 0;
+  bottom: 50px;
   left: 0;
   margin: auto;
   }
